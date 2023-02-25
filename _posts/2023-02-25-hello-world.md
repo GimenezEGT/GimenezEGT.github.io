@@ -29,7 +29,7 @@ Estou escrevendo este post agora em fevereiro de 2023 porque sinto que estou com
 Então, sou um aspirante a cientista de dados e biólogo, focado agora em aprender sobre estatística, programação e, é claro, também aprendendo um pouco mais sobre biologia.
 
 Aqui, compartilharei com todos vocês o que aprendo por este caminho. Pretendo focar em Ciência de Dados e Bioinformática, mas não se surpreendam se um dia eu trouxer aqui uma resenha de livro de Filosofia, indicação de literatura ou experiência pessoal.
-E gostaria de salientar que estou muito interessado em entrar em contato com todos vocês, então se alguém sentir que posso ajudar com algo, não hesite em entrar em contato comigo pelas minhas redes sociais, e-mail, telefone, sinal de fumaça ou pintura em pedra (brincadeira).
+E gostaria de salientar que estou muito interessado em entrar em contato com todos vocês, então se alguém sentir que posso ajudar com algo, não hesite em entrar em contato comigo pelas minhas redes sociais, e-mail, telefone, sinal de fumaça ou pintura rupestre (brincadeira).
 
 Farei o meu melhor para compartilhar todos os posts em inglês e português, pois desejo que mais pessoas me entendam.
 
